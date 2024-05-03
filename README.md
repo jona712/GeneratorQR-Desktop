@@ -1,4 +1,4 @@
-# QR Code Generator in C# with Visual Studio
+# QR Code Generator in ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg) with Visual Studio
 
 This project is a simple QR code generator implemented in C# using Visual Studio. It allows users to input text and generate corresponding QR codes.
 
