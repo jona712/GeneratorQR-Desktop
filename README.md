@@ -5,3 +5,8 @@ This project is a simple QR code generator implemented in C# using Visual Studio
 ## Description
 
 This application serves as a tool to generate QR codes from text inputs. It offers a straightforward interface where users can input any text string, and the application will produce a QR code image representing that text.
+
+## Languages and Tools
+
+- C# - The primary language used for development.
+- Visual Studio - Integrated development environment (IDE) for coding, debugging, and building the application.
