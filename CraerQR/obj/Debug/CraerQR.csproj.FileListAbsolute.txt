@@ -1,0 +1,12 @@
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\bin\Debug\CraerQR.exe.config
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\bin\Debug\CraerQR.exe
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\bin\Debug\CraerQR.pdb
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.csproj.AssemblyReference.cache
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.Entidades.frmCrearCodigoQR.resources
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.Properties.Resources.resources
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.csproj.GenerateResource.cache
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.csproj.CoreCompileInputs.cache
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.csproj.CopyComplete
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.exe
+C:\Users\jonan\Documents\Ingeniería en Software\U-2023\I CUATRI-2023\PROGRAMACIÓN III\Semana 14\CraerQR\CraerQR\obj\Debug\CraerQR.pdb
